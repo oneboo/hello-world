@@ -1,0 +1,6 @@
+public class Demo{
+static String s="Hello world";
+public static void mian(String[] args){
+System.out.println(s);
+}
+}
